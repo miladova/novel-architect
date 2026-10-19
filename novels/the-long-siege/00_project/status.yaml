@@ -9,14 +9,27 @@ target_chapter_count: 25
 current_volume: 1
 current_chapter: 25
 last_completed_chapter: 25
-total_words_estimate: 104212
+total_words_estimate: 104209
 phase: "drafted"
 deliverables:
   pdf:
     path: "The_Long_Siege.pdf"
     builder: "build/build_pdf.py"
-    pages: 471
-    notes: "5.5x8.5in trade format; DejaVu Serif family embedded (regular, bold, synthetic oblique, bold oblique); drop caps; running heads; body-relative folios; auto TOC; front matter carries Mature/18+ notice."
+    oblique_font_builder: "build/make_oblique_fonts.py"
+    frontispiece: "build/assets/frontispiece.jpg"
+    physical_pages: 446
+    body_folios: 439
+    design: "illuminated_manuscript"
+    notes: >-
+      5.5x8.5in trade format on a parchment ground with gold rule frames;
+      gilded illuminated chapter initials on crimson/ultramarine squares;
+      vine-and-flower corner borders on the title and three part-divider
+      pages; floral fleuron scene breaks; floral rules; gilt char-spaced
+      display type; period frontispiece miniature in a double rule frame;
+      running heads suppressed on chapter openers; body-relative folios
+      flanked by diamonds; DejaVu Serif family embedded including synthetic
+      oblique and bold-oblique faces; auto TOC with Roman chapter numerals;
+      Mature/18+ notice in front matter; FINIS closing ornament.
 milestones:
   marriage_chapter: 7
   rupture_truth_chapter: 18
@@ -26,4 +39,4 @@ open_risks:
   - "Final copyedit pass (typo/homophone scan) optional before publication."
   - "Word count 104k vs 125k target; accepted under the flexible per-chapter clause."
 next_action: "hand_off"
-updated_at: "2026-10-19T03:30:00"
+updated_at: "2026-10-19T04:15:00"

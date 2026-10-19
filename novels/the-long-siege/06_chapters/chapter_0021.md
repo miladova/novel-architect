@@ -96,8 +96,6 @@ The count took the rest of the day. The siege had cost Sainterre four hundred an
 
 * * *
 
-* * *
-
 Graçay's herald came at dusk under the parley flag, with the professional courtesies of a beaten man who intends to remain in his profession. The Sire de Graçay requested leave to bury his dead in the siege lines and to send his surgeons to the wounded he had been obliged to abandon, and he asked, in the careful language of chivalry, for the return of the body of Captain de Marcenay, whose family in Gascony would pay the customary sum.
 
 "Say yes to the dead and the surgeons." Jeanne read the letter in the cloth hall with the aldermen and Thiébaut around her. "Say no to Marcenay's body. He hanged thirty-one militiamen in their charter uniforms and held a church full of women. Let the city decide his grave. Coppens?"
