@@ -1,0 +1,28 @@
+voices:
+  - id: "jeanne"
+    mode: "close third person, past tense"
+    scope: "anchor POV for all chapters except 4 and 15"
+    diction:
+      - "Ledger and legal vocabulary applied to emotion and war alike."
+      - "Sensory detail filtered through governance: costs, names, obligations."
+      - "Dry, exact internal irony; no anachronistic modern idiom."
+    constraints:
+      - "No access to Thiébaut's unspoken reasons before Ch.18."
+      - "Intimacy rendered through consent, gesture, and consequence."
+  - id: "thiebaut"
+    mode: "close third person, past tense"
+    scope: "full anchor in Ch.4 and Ch.15; split scenes in Ch.5, Ch.21, Ch.23"
+    diction:
+      - "Soldier's vocabulary: terrain, horses, weather, command."
+      - "Repressed feeling expressed in physical action rather than declaration."
+    constraints:
+      - "Never narrates the rupture secret outright before Ch.18; only pressure and avoidance."
+  - id: "split_scenes"
+    chapters: [5, 21, 23]
+    rule: "Scene-level switches only, each switch marked by a scene break; no head-hopping within a scene."
+tense: "past"
+person: "third"
+forbidden:
+  - "omniscient authorial asides"
+  - "free indirect speech from non-POV heads"
+  - "modern psychological vocabulary"

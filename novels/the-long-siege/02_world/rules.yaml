@@ -1,0 +1,28 @@
+rules:
+  - id: "sovereignty"
+    statement: "Jeanne rules as duchess in her own right; marriage conveys no Vauréal title, office, or patent to the husband."
+    enforced_in: ["Ch.3 treaty additions", "Ch.7 heraldic proclamation", "Ch.25 succession charter"]
+  - id: "charter_law"
+    statement: "City charters are perpetual and, after Heurtois, recognized even by France as ancient customs; aldermen, city courts, and toll grants derive from them."
+    enforced_in: ["Ch.9 Sainterre", "Ch.22 enlarged charter", "Ch.24 Treaty of Heurtois", "Ch.25 re-seals"]
+  - id: "no_civilian_reprisal"
+    statement: "Burning, sack, or collective punishment of civilian villages is forbidden even after atrocities; discipline is enforced by bounty and printed proclamations instead."
+    enforced_in: ["Ch.14 Rostaing verdict", "Ch.17 Sainte-Florence orders", "Ch.21 Graçay herald letter"]
+  - id: "attainder_law"
+    statement: "Treason is tried as a paperwork case in open, printed peer court; attainder extinguishes the lordship, not the bloodline, and the traitor's children remain under the crown's protection."
+    enforced_in: ["Ch.17 attainder preparation", "Ch.24 Hautperthuis trial"]
+  - id: "debt_mechanics"
+    statement: "Venetian loans are secured on customs annuities with fixed rates, a casting vote for the duchess, and par redemption permitted after three years; war taxes in the covenants still require city votes."
+    enforced_in: ["Ch.12 Dolfin loan", "Ch.16 renewal at 11%", "Ch.22 40k loan", "Ch.25 par redemption"]
+  - id: "homage_compromise"
+    statement: "Thiébaut owes France only personal, peacetime homage for three southern fiefs; no garrisons, no liege bond, no claim over Vauréal."
+    enforced_in: ["Ch.24 Treaty of Heurtois"]
+  - id: "succession"
+    statement: "Female-line succession is explicit; the heir is an heiress in her own right and no wardship may be granted over her."
+    enforced_in: ["Ch.25 Aveline's birth and charter"]
+  - id: "information_discipline"
+    statement: "State documents distinguish public print (proclamations, news sheets, trial records) from a private archive (the book of the dead, the sealed Foulques account, unsent letters); originals of coercive instruments are burned once their purpose is spent."
+    enforced_in: ["Ch.13 print campaign", "Ch.19 siege news sheet", "Ch.24 printed trial", "Ch.25 green-case burning"]
+  - id: "marriage_truth"
+    statement: "No member of the household may choose what another is allowed to know; the honesty pact after Ch.18 replaces protective secrecy as the rule of the marriage and of the nursery."
+    enforced_in: ["Ch.18", "Ch.21 vow", "Ch.25 charter for a daughter"]

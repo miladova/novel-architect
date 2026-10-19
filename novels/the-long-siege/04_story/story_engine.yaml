@@ -1,0 +1,35 @@
+story_engine:
+  central_dramatic_question: "Can a young duchess keep her dominion, her sovereignty, and herself whole against invasion, treachery, debt, and the husband she once loved?"
+  narrative_engine: "Each crisis is survived not by force alone but by the ledger: law, credit, charters, information, and the careful accounting of what power costs both ruler and ruled."
+  protagonist:
+    want: "To hold the dominion inherited from her father as its unchallenged ruling duchess."
+    need: "To learn that rule is reciprocal obligation, and that trust (in a husband, a chancellor, a city, a people) is a stronger instrument than control."
+    misbelief: "That she must be colder and more secretive than everyone in the room to survive, as her father was."
+    fear: "Becoming Hugues; being made a ward or a convent pawn; losing the people she loves to choices made on her behalf without her knowledge."
+    moral_line: "No fire reprisals against civilians; law and printed process over private vengeance; no locked rooms in marriage or in child-rearing."
+  core_stakes:
+    external: "French annexation, vassal defections, military defeat, financial collapse."
+    internal: "Whether power can be held without repeating her father's cruelty and secrecy."
+    relational: "Whether the marriage of state can become a true partnership after a seven-year rupture built on protective lies."
+  escalation_ladder:
+    - "Ch.1-2: inheritance in crisis; defecting vassals and circling envoys."
+    - "Ch.3-7: forced marriage treaty negotiated on her terms; wedding; alliance forged."
+    - "Ch.8-13: first campaigns; charter politics; debt financing; religious insurrection."
+    - "Ch.14-18: total war finance; treason at home; the green-case secret breaks open."
+    - "Ch.19-21: siege of Sainterre; Jeanne holds the city; relief breaks the French army."
+    - "Ch.22-23: peace settlement politics; winter siege of Mont d'Or; the traitor taken."
+    - "Ch.24-25: treaty, attainder, execution, demobilization, heir born, peacetime order sealed."
+  irreversible_choices:
+    - "Signing the marriage treaty with sovereignty clauses (Ch.3, Ch.7)."
+    - "Pledging the customs revenue to Venetian debt (Ch.12)."
+    - "Public trial and demotion of Rostaing instead of pardon or hanging (Ch.14)."
+    - "Refusing fire reprisals and trying Hautperthuis under attainder law (Ch.17)."
+    - "Staying inside besieged Sainterre (Ch.19)."
+    - "Keeping Foulques in office under penance rather than destroying him (Ch.18)."
+    - "Burning the green-case instruments while retaining the sealed archive account (Ch.25)."
+  climax_preconditions:
+    - "Army and cities bound to the crown by charters and paid service, not feudal whim."
+    - "Credit established with Venice on terms that permit par redemption."
+    - "Marriage rebuilt on full truth after the Ch.18 confession."
+    - "Fifth column mapped and legally dismantled before the final campaign."
+    - "Hautperthuis captured alive so law, not assassination, ends the treason."

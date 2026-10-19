@@ -1,0 +1,42 @@
+act_one:
+  span: "Ch.1-7"
+  function: "inheritance in collapse; forced marriage negotiated on sovereign terms"
+  chapters:
+    - {number: 1, tension: "high", pace: "fast", beat: "death, inheritance, first council"}
+    - {number: 2, tension: "high", pace: "fast", beat: "vultures and defections"}
+    - {number: 3, tension: "medium", pace: "deliberate", beat: "treaty drafted; four additions"}
+    - {number: 4, tension: "medium", pace: "deliberate", beat: "Thiébaut's bargain (his POV)"}
+    - {number: 5, tension: "medium", pace: "slow", beat: "arrival; the shared wall"}
+    - {number: 6, tension: "medium", pace: "deliberate", beat: "public alliance; locked-door hint"}
+    - {number: 7, tension: "high", pace: "ceremonial", beat: "wedding; bedding; consent"}
+act_two_a:
+  span: "Ch.8-13"
+  function: "joint rule and first campaigns; finance and faith as weapons"
+  chapters:
+    - {number: 8, tension: "medium", pace: "slow", beat: "two heads, one pillow"}
+    - {number: 9, tension: "high", pace: "deliberate", beat: "charter and cannon politics"}
+    - {number: 10, tension: "high", pace: "fast", beat: "ride to the frontier"}
+    - {number: 11, tension: "high", pace: "fast", beat: "first blood and its weight"}
+    - {number: 12, tension: "medium", pace: "deliberate", beat: "Venetian debt structure"}
+    - {number: 13, tension: "high", pace: "fast", beat: "preacher's insurrection answered in print"}
+act_two_b:
+  span: "Ch.14-18"
+  function: "total war; law at home; the buried secret breaks open"
+  chapters:
+    - {number: 14, tension: "high", pace: "deliberate", beat: "Rostaing trial; peace talks as stall"}
+    - {number: 15, tension: "very high", pace: "fast", beat: "frost march and Sarrebourg (his POV)"}
+    - {number: 16, tension: "medium", pace: "slow", beat: "lodge truce; Mont d'Or betrayal"}
+    - {number: 17, tension: "very high", pace: "fast", beat: "fifth column; Sainte-Florence"}
+    - {number: 18, tension: "very high", pace: "slow", beat: "green case; rupture truth"}
+act_three:
+  span: "Ch.19-25"
+  function: "siege, victory, lawful settlement, peacetime order"
+  chapters:
+    - {number: 19, tension: "very high", pace: "sustained", beat: "siege of Sainterre"}
+    - {number: 20, tension: "very high", pace: "fast", beat: "sallies; crypt rescue; pregnancy"}
+    - {number: 21, tension: "very high", pace: "fast", beat: "relief breaks the siege"}
+    - {number: 22, tension: "medium", pace: "deliberate", beat: "the price of crowns; charters enlarged"}
+    - {number: 23, tension: "very high", pace: "fast", beat: "winter siege; Mont d'Or taken"}
+    - {number: 24, tension: "high", pace: "deliberate", beat: "treaty; trial; execution"}
+    - {number: 25, tension: "low", pace: "slow", beat: "peace; birth; vault; epilogue"}
+rhythm_rule: "Battles and trials are followed by ledger or domestic chapters so each cost is counted; no two consecutive all-action chapters without a reckoning scene."

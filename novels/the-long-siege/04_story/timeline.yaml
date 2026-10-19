@@ -1,0 +1,79 @@
+time_baseline:
+  label: "story_day_0"
+  description: "March 1484. Jeanne receives news of Duke Hugues's battlefield death and inherits the dominion."
+events:
+  - chapter: 1
+    label: "March 1484"
+    event: "Inheritance; the book of the dead opened; first council of the reign."
+  - chapter: 2
+    label: "March 1484"
+    event: "Vassals and envoys circle; defection of the southern lords begins."
+  - chapter: 3
+    label: "April 1484"
+    event: "Marriage treaty drafted with four sovereignty additions."
+  - chapter: 4
+    label: "April-May 1484"
+    event: "Thiébaut's bargain in Nancy; the seven-year rupture kept silent."
+  - chapter: 5
+    label: "May 1484"
+    event: "Thiébaut arrives at the Haut-Tertre; shared wall, separate rooms."
+  - chapter: 6
+    label: "May-June 1484"
+    event: "Public treaty of alliance; Foulques hints at locked doors."
+  - chapter: 7
+    label: "June 1484"
+    event: "Wedding at the Haut-Tertre; Jeanne's terms proclaimed by heralds."
+  - chapter: 8
+    label: "Summer 1484"
+    event: "Joint rule begins; two heads, one pillow and one war council."
+  - chapter: 9
+    label: "Summer 1484"
+    event: "Sainterre charter politics; first test of the cannon and the charter."
+  - chapter: 10
+    label: "Autumn 1484"
+    event: "Ride south to the frontier; garrisons and loyal oaths."
+  - chapter: 11
+    label: "Autumn 1484"
+    event: "First blood; the weight of casualties and the book of names."
+  - chapter: 12
+    label: "Winter 1484"
+    event: "Dolfin and the Venetian loans; customs annuity structure."
+  - chapter: 13
+    label: "Winter 1484-85"
+    event: "Preacher-led insurrection; printed proclamations answer pulpits."
+  - chapter: 14
+    label: "February 1485"
+    event: "Captured dispatches; Rostaing's trial; Heurtois talks opened to stall."
+  - chapter: 15
+    label: "February 1485"
+    event: "Frost march through the Harchies; Sarrebourg relieved by the sledge guns."
+  - chapter: 16
+    label: "Spring 1485"
+    event: "Hunting lodge truce; Mont d'Or seized by Hautperthuis's treachery."
+  - chapter: 17
+    label: "Summer 1485"
+    event: "Fifth-column map; Sainte-Florence atrocity; attainder prepared."
+  - chapter: 18
+    label: "Summer 1485"
+    event: "The green case opened; the seven-year rupture explained; honesty pact."
+  - chapter: 19
+    label: "June 1485"
+    event: "Siege of Sainterre begins; Jeanne remains inside the city."
+  - chapter: 20
+    label: "Summer 1485"
+    event: "The sallies; church crypt rescue; pregnancy confirmed and shared."
+  - chapter: 21
+    label: "Summer 1485"
+    event: "Relief army breaks the siege; Marcenay killed; de Key hanged."
+  - chapter: 22
+    label: "July-October 1485"
+    event: "Peacetime finance inside war; enlarged charter; Guild of Saint Margaret."
+  - chapter: 23
+    label: "December 1485-January 1486"
+    event: "Winter siege of Mont d'Or; fortress taken; Hautperthuis captured for law."
+  - chapter: 24
+    label: "January-February 1486"
+    event: "Treaty of Heurtois; peer trial; execution; peace proclaimed and printed."
+  - chapter: 25
+    label: "Spring-September 1486"
+    event: "Debt redemption; charter re-seals; Aveline born 28 April 1486; epilogue."

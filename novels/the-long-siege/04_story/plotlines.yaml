@@ -1,0 +1,29 @@
+plotlines:
+  - id: "war_of_defense"
+    question: "Can Vauréal survive the French invasion without surrendering sovereignty?"
+    beats: ["Ch.1-2 crisis of inheritance", "Ch.7 alliance marriage", "Ch.10-11 frontier campaigns", "Ch.14-15 Sarrebourg", "Ch.19-21 Sainterre", "Ch.23 Mont d'Or", "Ch.24 Heurtois peace"]
+    resolution: "Treaty of Heurtois recognizes charters and returns all towns; homage is personal and limited."
+  - id: "marriage"
+    question: "Can a forced political marriage become a true partnership?"
+    beats: ["Ch.3-7 treaty and wedding", "Ch.8 shared rule", "Ch.16 lodge truce", "Ch.18 rupture truth", "Ch.21 reunion and vows", "Ch.25 parenthood"]
+    resolution: "Open door, dual ledgers, joined-arms margin mark."
+  - id: "rupture_secret"
+    question: "What caused the seven-year break, and who really profited from it?"
+    beats: ["Ch.1 mystery", "Ch.6 Foulques warning", "Ch.15 half-confession", "Ch.18 green case"]
+    resolution: "Hugues's coercion exposed; Foulques penanced; the coercive instruments burned in Ch.25."
+  - id: "finance_and_credit"
+    question: "Can a small dominion buy its survival without selling itself?"
+    beats: ["Ch.12 first Venetian loan", "Ch.16 renewal", "Ch.21 emergency loan", "Ch.22 annuity covenants", "Ch.25 par redemption"]
+    resolution: "Debt serviced and redeemed on schedule; cities vote the taxes that secure it."
+  - id: "charter_cities"
+    question: "Will the towns defend the rights they were granted?"
+    beats: ["Ch.9 Sainterre charter", "Ch.13 printed arguments", "Ch.19-21 the siege", "Ch.22 enlarged charter and women's guild", "Ch.25 re-seals"]
+    resolution: "Charter government becomes the recognized ancient custom of the peace."
+  - id: "internal_treason"
+    question: "Can the crown defeat the fifth column without becoming tyrannical?"
+    beats: ["Ch.14 intercepted letters", "Ch.17 map and legal lease-breaking", "Ch.22 Erquelines bought and bound", "Ch.24 trial of Hautperthuis"]
+    resolution: "Attainder through open court; bloodline spared; law visibly stronger than vengeance."
+  - id: "succession"
+    question: "Who and what comes after Jeanne?"
+    beats: ["Ch.1 the inheritance problem", "Ch.20 pregnancy under siege", "Ch.25 Aveline's birth and succession charter"]
+    resolution: "Female-line heiress in her own right; no wardships; orphan school as institutional memory."

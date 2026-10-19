@@ -1,0 +1,151 @@
+chapters:
+  - number: 1
+    heading: "Chapter One — The Ledger of the Dead"
+    title: "The Ledger of the Dead"
+    file: "06_chapters/chapter_0001.md"
+    word_count: 4608
+    status: "draft_complete"
+  - number: 2
+    heading: "Chapter Two — The Vultures' Congregation"
+    title: "The Vultures' Congregation"
+    file: "06_chapters/chapter_0002.md"
+    word_count: 4178
+    status: "draft_complete"
+  - number: 3
+    heading: "Chapter Three — The Old Wound"
+    title: "The Old Wound"
+    file: "06_chapters/chapter_0003.md"
+    word_count: 4203
+    status: "draft_complete"
+  - number: 4
+    heading: "Chapter Four — Nancy's Bargain"
+    title: "Nancy's Bargain"
+    file: "06_chapters/chapter_0004.md"
+    word_count: 4540
+    status: "draft_complete"
+  - number: 5
+    heading: "Chapter Five — The Road Between Armies"
+    title: "The Road Between Armies"
+    file: "06_chapters/chapter_0005.md"
+    word_count: 4226
+    status: "draft_complete"
+  - number: 6
+    heading: "Chapter Six — The Treaty of Everyone But Them"
+    title: "The Treaty of Everyone But Them"
+    file: "06_chapters/chapter_0006.md"
+    word_count: 4345
+    status: "draft_complete"
+  - number: 7
+    heading: "Chapter Seven — The Wedding at Haut-Tertre"
+    title: "The Wedding at Haut-Tertre"
+    file: "06_chapters/chapter_0007.md"
+    word_count: 4035
+    status: "draft_complete"
+  - number: 8
+    heading: "Chapter Eight — Two Heads, One Pillow"
+    title: "Two Heads, One Pillow"
+    file: "06_chapters/chapter_0008.md"
+    word_count: 4358
+    status: "draft_complete"
+  - number: 9
+    heading: "Chapter Nine — The Charter and the Cannon"
+    title: "The Charter and the Cannon"
+    file: "06_chapters/chapter_0009.md"
+    word_count: 4271
+    status: "draft_complete"
+  - number: 10
+    heading: "Chapter Ten — South to the Frontier"
+    title: "South to the Frontier"
+    file: "06_chapters/chapter_0010.md"
+    word_count: 4172
+    status: "draft_complete"
+  - number: 11
+    heading: "Chapter Eleven — The Weight of Bodies"
+    title: "The Weight of Bodies"
+    file: "06_chapters/chapter_0011.md"
+    word_count: 4114
+    status: "draft_complete"
+  - number: 12
+    heading: "Chapter Twelve — The Banker's Ledger"
+    title: "The Banker's Ledger"
+    file: "06_chapters/chapter_0012.md"
+    word_count: 4593
+    status: "draft_complete"
+  - number: 13
+    heading: "Chapter Thirteen — The Preacher's Fire"
+    title: "The Preacher's Fire"
+    file: "06_chapters/chapter_0013.md"
+    word_count: 4111
+    status: "draft_complete"
+  - number: 14
+    heading: "Chapter Fourteen — Letters from Paris"
+    title: "Letters from Paris"
+    file: "06_chapters/chapter_0014.md"
+    word_count: 4074
+    status: "draft_complete"
+  - number: 15
+    heading: "Chapter Fifteen — The Frost March"
+    title: "The Frost March"
+    file: "06_chapters/chapter_0015.md"
+    word_count: 4255
+    status: "draft_complete"
+  - number: 16
+    heading: "Chapter Sixteen — The Hunting Lodge"
+    title: "The Hunting Lodge"
+    file: "06_chapters/chapter_0016.md"
+    word_count: 3959
+    status: "draft_complete"
+  - number: 17
+    heading: "Chapter Seventeen — Treason's Market"
+    title: "Treason's Market"
+    file: "06_chapters/chapter_0017.md"
+    word_count: 3958
+    status: "draft_complete"
+  - number: 18
+    heading: "Chapter Eighteen — What the Chancellor Carried"
+    title: "What the Chancellor Carried"
+    file: "06_chapters/chapter_0018.md"
+    word_count: 3854
+    status: "draft_complete"
+  - number: 19
+    heading: "Chapter Nineteen — The Siege of Sainterre"
+    title: "The Siege of Sainterre"
+    file: "06_chapters/chapter_0019.md"
+    word_count: 4270
+    status: "draft_complete"
+  - number: 20
+    heading: "Chapter Twenty — The Sallies"
+    title: "The Sallies"
+    file: "06_chapters/chapter_0020.md"
+    word_count: 4013
+    status: "draft_complete"
+  - number: 21
+    heading: "Chapter Twenty-One — The Breaking of the Siege"
+    title: "The Breaking of the Siege"
+    file: "06_chapters/chapter_0021.md"
+    word_count: 4109
+    status: "draft_complete"
+  - number: 22
+    heading: "Chapter Twenty-Two — The Price of Crowns"
+    title: "The Price of Crowns"
+    file: "06_chapters/chapter_0022.md"
+    word_count: 3714
+    status: "draft_complete"
+  - number: 23
+    heading: "Chapter Twenty-Three — The Fortress at Mont d'Or"
+    title: "The Fortress at Mont d'Or"
+    file: "06_chapters/chapter_0023.md"
+    word_count: 4238
+    status: "draft_complete"
+  - number: 24
+    heading: "Chapter Twenty-Four — The King's Peace"
+    title: "The King's Peace"
+    file: "06_chapters/chapter_0024.md"
+    word_count: 3897
+    status: "draft_complete"
+  - number: 25
+    heading: "Chapter Twenty-Five — The Peace"
+    title: "The Peace"
+    file: "06_chapters/chapter_0025.md"
+    word_count: 4117
+    status: "draft_complete"

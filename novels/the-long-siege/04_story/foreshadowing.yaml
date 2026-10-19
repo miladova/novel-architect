@@ -1,0 +1,48 @@
+foreshadowing:
+  - id: "blank_convent_order"
+    plant: "Early references to a strict-observance convent order with a blank date and to Lisette's old injuries."
+    buildup: ["Ch.6 Foulques's locked-door warning", "Ch.14 the chancellor's flinch", "Ch.15-16 the green case hunt"]
+    payoff: "Ch.18 full confession of Hugues's threats; the instrument itself is burned in Ch.25 while the sealed account is archived."
+  - id: "green_case"
+    plant: "Foulques's green ribbon and the case that never leaves his room."
+    buildup: ["Ch.14 Jeanne orders Lisette to find it", "Ch.16 the couple vow to open it together", "Ch.17 Foulques asks to unburden"]
+    payoff: "Ch.18 the case yields the renunciation, threats, convent order, and Foulques's notes."
+  - id: "great_hall_cruelty"
+    plant: "The unexplained seven-year rupture and Thiébaut's cruel renunciation in the great hall."
+    buildup: ["Ch.4-5 his guarded grief", "Ch.15 the half-confession in the charcoal hut"]
+    payoff: "Ch.18 reveals it as a protective performance; honesty pact replaces silence."
+  - id: "book_of_the_dead"
+    plant: "Jeanne begins her reign by opening the book of the dead (Ch.1)."
+    buildup: ["Ch.11 she asks for the twelve laborers' names", "Ch.17 Sainte-Florence names", "Ch.19 siege news sheet names every casualty"]
+    payoff: "Ch.22 Sainterre memorial wall of 411 names; Ch.25 cathedral vault reckoning with her father."
+  - id: "charter_argument"
+    plant: "The cities' two-key argument and the first charter politics (Ch.9)."
+    buildup: ["Ch.13 printed defense of charter rights", "Ch.19-21 Sainterre holds under its charter", "Ch.22 enlarged charter"]
+    payoff: "Ch.24 France recognizes the charters in perpetuity as ancient customs; Ch.25 re-seals."
+  - id: "venetian_debt"
+    plant: "Dolfin's first loan and the customs annuity (Ch.12)."
+    buildup: ["Ch.16 renewal at 11%", "Ch.22 the 40k loan and covenants"]
+    payoff: "Ch.25 first installment redeemed at par on schedule."
+  - id: "rostaing_judgment"
+    plant: "Rostaing's courage repeatedly shown before the Argnon burning (Ch.10-13)."
+    buildup: ["Ch.14 trial and demotion", "Ch.14 frontier orders under Valvert"]
+    payoff: "Ch.21 kills Marcenay; Ch.24 given Mont d'Or command."
+  - id: "perrin_wine"
+    plant: "Perrin saves the wine at the winter camp (Ch.23)."
+    payoff: "Same chapter he smells the poison meant for Thiébaut; Ch.25 spurs and high-table place."
+  - id: "valvert"
+    plant: "The old marshal's frontier service and Rostaing's assignment under him."
+    payoff: "Ch.16 his murder at Mont d'Or; Ch.23 honorable reburial and the memorial gate stone."
+  - id: "hautperthuis_letters"
+    plant: "The silky denials and the unnamed 'party known to us' in French dispatches."
+    buildup: ["Ch.14 courier evidence", "Ch.17 fifth-column map and formal summons"]
+    payoff: "Ch.23 capture; Ch.24 open trial and execution; his posthumous letter yields three contacts."
+  - id: "connecting_door"
+    plant: "The absurd connecting door between the wedding chambers (Ch.7)."
+    payoff: "Ch.21 the no-locked-rooms vow; Ch.25 the door stands open in the final scene."
+  - id: "refused_maxim"
+    plant: "Ch.1 italic maxim: what cannot be refused must be made to serve."
+    payoff: "The marriage, the debt, the homage, and even the peace conference are all converted into instruments of Vauréal's sovereignty by Ch.24-25."
+  - id: "heiress_promise"
+    plant: "Jeanne's determination that no daughter of hers will face wardship or a convent blank."
+    payoff: "Ch.20 pregnancy under siege; Ch.25 Aveline born, female-line succession secured, no wardships."

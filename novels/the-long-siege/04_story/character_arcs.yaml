@@ -1,0 +1,33 @@
+arcs:
+  - character: "jeanne"
+    beginning: "Governs through ledgers and cold formality; trusts no one; sees love and rule as mutually exclusive."
+    turning_points: ["Ch.7 wedding on her own terms", "Ch.12 pledging the customs to Venice", "Ch.14 the Rostaing verdict", "Ch.18 the confession and honesty pact", "Ch.19-21 choosing to stay in besieged Sainterre"]
+    ending: "Rules through charters, credit, and chosen trust; burns the instruments of old coercion; raises an heiress under a no-locked-rooms vow."
+  - character: "thiebaut"
+    beginning: "Self-forged instrument of war carrying a seven-year secret; keeps himself unlovable to protect her."
+    turning_points: ["Ch.4-5 reunion under arms", "Ch.15 the half-confession and joint vow", "Ch.18 full account and loss of control", "Ch.23 shoulder shattered a second time on Vauréal ground"]
+    ending: "Honest partner and father; stiff left arm; teaches the old songs to his daughter."
+  - character: "foulques"
+    beginning: "Imperturbable chancellor whose hands betray him around the green case."
+    turning_points: ["Ch.6 first warning", "Ch.14 the flinch", "Ch.17 request to unburden", "Ch.18 heart seizure and confession"]
+    ending: "Kept in office under penance; teaches law to orphan girls; writes the sealed archive account."
+  - character: "lisette"
+    beginning: "Loyal maid with unexplained old scars."
+    turning_points: ["Ch.14 green-case investigation", "Ch.17 the fifth-column map", "Ch.24 the map displayed at the trial"]
+    ending: "Spymaster whose evidence convicts a lord and whose story is entered in the record."
+  - character: "rostaing"
+    beginning: "Bravest and most careless captain in the army."
+    turning_points: ["Ch.14 Argnon burning, trial, and demotion", "Ch.21 kills Marcenay in the ditch"]
+    ending: "Captaincy restored; Mont d'Or commandant; the army's proof that redemption runs through the ranks."
+  - character: "coppens"
+    beginning: "Cautious moderate guildsman arguing the two-key case."
+    turning_points: ["Ch.9 charter negotiations", "Ch.19-21 the siege council", "Ch.22 memorial wall"]
+    ending: "First citizen of the rebuilt city; bearer of the first new cloth at the christening."
+  - character: "dolfin"
+    beginning: "Vulture measuring a distressed dominion's risk at 12.5%."
+    turning_points: ["Ch.12 first loan", "Ch.16 renewal at 11%", "Ch.21 funding the Landsknechts"]
+    ending: "Leaves a factor and returns to Venice; the par redemption in Ch.25 closes his ledgers at a profit."
+  - character: "hautperthuis"
+    beginning: "Silky great lord nostalgic for unaccountable power."
+    turning_points: ["Ch.16 seizure of Mont d'Or", "Ch.23 capture in the donjon", "Ch.24 cell visit and trial"]
+    ending: "Attainted as lordship, executed by sword; his children raised at court, his contacts turned into intelligence."

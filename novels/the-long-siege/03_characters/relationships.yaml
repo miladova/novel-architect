@@ -1,0 +1,38 @@
+relationships:
+  - pair: ["jeanne", "thiebaut"]
+    type: "political marriage; childhood bond; seven-year rupture"
+    trajectory: "Ch.3-7 treaty and wedding at sovereign distance; Ch.8-16 slow rebuilding through shared command; Ch.18 rupture truth and honesty pact; Ch.19-23 siege and battlefield trust; Ch.24-25 marriage as open partnership and parenthood."
+    standing_rule: "no locked rooms; no decisions made for the other without knowledge; connecting door kept open."
+  - pair: ["jeanne", "foulques"]
+    type: "ruler and chancellor; complicity and penance"
+    trajectory: "Instrument of Hugues's coercion who preserved the evidence; Ch.18 confession; kept in office under penance; ends as law teacher in the orphan school and keeper of the sealed archive account."
+  - pair: ["jeanne", "lisette"]
+    type: "mistress and maid; spymaster"
+    trajectory: "Shared survivor bond from the convent-order threat; Lisette's network and fifth-column map make the attainder case possible."
+  - pair: ["jeanne", "hugues"]
+    type: "daughter and dead father"
+    trajectory: "Inheritance as reckoning; Jeanne measures every act against the fear of becoming him; the cathedral vault scene (Ch.25) chooses charters over his model of rule."
+  - pair: ["thiebaut", "hugues"]
+    type: "ward and coercive guardian"
+    trajectory: "Hugues forces the renunciation at twenty under threat of convent and branding; the secret that structures the rupture."
+  - pair: ["thiebaut", "jean"]
+    type: "brothers and brothers-in-arms"
+    trajectory: "Jean's pike wound at Sarrebourg and Thiébaut's shoulder at Mont d'Or mark the cost of the field war."
+  - pair: ["jeanne", "coppens"]
+    type: "duchess and charter city"
+    trajectory: "Sainterre's loyalty is earned through the enlarged charter, the shared siege, and the memorial wall; the cities become the pillar of the reign."
+  - pair: ["jeanne", "dolfin"]
+    type: "borrower and banker"
+    trajectory: "Rates fall from 12.5% to 11% as credit strengthens; debt redeemed at par after three years; Venice becomes a guarantor of the settlement."
+  - pair: ["jeanne", "rostaing"]
+    type: "ruler and disgraced officer"
+    trajectory: "Ch.14 public verdict and demotion; Ch.21 redemption in the battery ditch; Ch.24 command of Mont d'Or; the army's proof that law applies evenly."
+  - pair: ["jeanne", "hautperthuis"]
+    type: "sovereign and traitor"
+    trajectory: "Silky denial, attainder, capture, open peer trial; bloodline spared while the lordship is extinguished; the night cell visit humanizes without pardoning."
+  - pair: ["jeanne", "aveline"]
+    type: "mother and heiress"
+    trajectory: "Pregnancy inside the siege; birth 28 April 1486; raised under the no-locked-rooms vow with a female-line succession and no wardships."
+  - pair: ["jeanne", "anne_de_france"]
+    type: "rival sovereigns"
+    trajectory: "War by proxy and letter; the Regent's need for peace produces the Heurtois terms that recognize Vauréal's charters as ancient customs."
