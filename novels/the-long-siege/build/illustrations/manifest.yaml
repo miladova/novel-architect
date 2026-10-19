@@ -17,25 +17,25 @@ characters:
   thiebaut: "a lean weather-beaten soldier-duke in his late twenties, short sandy-brown hair, trimmed beard, calloused soldier's hands, gothic plate or dark soldier's garb"
 palette_house: "Vauréal banners and surcoats in red and silver; Lorraine in blue and white"
 plates:
-  - {chapter: 1, file: "ch01.jpg", status: "missing",
+  - {chapter: 1, file: "ch01.jpg", status: "generated",
      subject: "rain-soaked torchlit lower courtyard at night; exhausted mounted messengers on wounded horses arrive through a gatehouse, mud-black red-and-silver surcoats, grooms with torches in falling rain"}
-  - {chapter: 2, file: "ch02.jpg", status: "missing",
+  - {chapter: 2, file: "ch02.jpg", status: "generated",
      subject: "a vaulted round council chamber in cold morning light; the young duchess seated on a high-backed chair receives a semicircle of bowing envoys and lords in fur-trimmed robes, clerks with parchment"}
-  - {chapter: 3, file: "ch03.jpg", status: "missing",
+  - {chapter: 3, file: "ch03.jpg", status: "generated",
      subject: "high-vaulted ducal workroom; the duchess and an elderly chancellor lean over a treaty parchment on a table stacked with ledgers and sealing wax, candle and grey window light"}
-  - {chapter: 4, file: "ch04.jpg", status: "missing",
+  - {chapter: 4, file: "ch04.jpg", status: "generated",
      subject: "bleak snow-dusted fortress courtyard in Lorraine; the lean soldier-duke studies a map with two captains, breath fogging, thin pennants, bare hills beyond the walls"}
-  - {chapter: 5, file: "ch05.jpg", status: "missing",
+  - {chapter: 5, file: "ch05.jpg", status: "generated",
      subject: "an armed column of cavalry rides a muddy road through open country between two distant armies on the horizons, lances with pennants, packed wagons, overcast luminous sky"}
-  - {chapter: 6, file: "ch06.jpg", status: "missing",
+  - {chapter: 6, file: "ch06.jpg", status: "generated",
      subject: "public treaty ceremony in a great Gothic hall; two retinues face each other across a table bearing sealed charters, heralds in tabards, tall candles and wall hangings"}
   - {chapter: 7, file: "ch07.jpg", status: "generated",
      subject: "wedding mass; the duchess wears a steel-grey silver-threaded gown beneath a red velvet ducal mantle lined with white miniver, gold headband and ruby brooch, kneeling with the soldier-duke before a bishop beneath crossed banners"}
-  - {chapter: 8, file: "ch08.jpg", status: "missing",
+  - {chapter: 8, file: "ch08.jpg", status: "generated",
      subject: "joint war council around a map-covered table in a stone chamber; the duchess and the duke stand together pointing at campaign maps while marshals and a clerk look on"}
-  - {chapter: 9, file: "ch09.jpg", status: "missing",
+  - {chapter: 9, file: "ch09.jpg", status: "generated",
      subject: "a medieval cloth-hall square in a weaving city; guildsmen in livery and armed militia with pikes face a restless crowd, a bronze bombard on its carriage beside the steps"}
-  - {chapter: 10, file: "ch10.jpg", status: "missing",
+  - {chapter: 10, file: "ch10.jpg", status: "generated",
      subject: "an army on the march south through frontier hills, columns of pikemen and mounted archers with red-and-silver banners, dust and long afternoon shadows"}
   - {chapter: 11, file: "ch11.jpg", status: "generated",
      subject: "quiet dusk burial ceremony outside a border town; soldiers carry a shrouded comrade on a bier of spears, priests with candles, the duchess kneels writing names in a small book, furled red-and-silver banner"}
@@ -53,7 +53,7 @@ plates:
      subject: "a candle-lit chamber at night; the duchess and her quick-eyed maid study a large hand-drawn map marked with ink symbols and wax seals, dagger and signet nearby, shutters closed"}
   - {chapter: 18, file: "ch18.jpg", status: "generated",
      subject: "an elderly pale chancellor in clerical dress sits before an open green ribbon-tied document case with old sealed parchments; the duchess reads one by candlelight, grave, a small oratory behind"}
-  - {chapter: 19, file: "ch19.jpg", status: "missing",
+  - {chapter: 19, file: "ch19.jpg", status: "generated",
      subject: "a walled cloth city under bombardment; smoke over Gothic rooftops, a great bombard firing from siege works, defenders on the walls, the duchess on a rampart in a steel cap"}
   - {chapter: 20, file: "ch20.jpg", status: "missing",
      subject: "a column of armed townswomen with crossbows and pikes advances through a smoke-filled street toward a stone church, their pregnant duchess at their head holding a pike"}
