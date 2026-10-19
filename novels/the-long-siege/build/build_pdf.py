@@ -38,6 +38,7 @@ PROJECT = Path(__file__).resolve().parents[1]
 CHAPTERS = PROJECT / "06_chapters"
 FONT_DIR = PROJECT / "build" / "fonts"
 ASSETS = PROJECT / "build" / "assets"
+ILLUSTRATIONS = PROJECT / "build" / "illustrations"
 OUT_PDF = PROJECT / "The_Long_Siege.pdf"
 
 PAGE_W, PAGE_H = 5.5 * inch, 8.5 * inch
@@ -484,13 +485,23 @@ def load_chapter(path: Path):
 
 def chapter_story(numeral, title, blocks, chapter_index):
     story = [
-        Spacer(1, 0.42 * inch),
+        Spacer(1, 0.30 * inch),
         Display(numeral.upper(), 12.5, GOLD, font="Serif-Bold", char_space=3.4),
         Spacer(1, 6),
         Display(title.upper(), 17.5, CRIMSON, font="Serif-Bold", char_space=2.0),
         FloralRuleFlow(),
-        Spacer(1, 14),
+        Spacer(1, 12),
     ]
+    plate = ILLUSTRATIONS / f"ch{chapter_index:02d}.jpg"
+    if plate.exists():
+        story.append(
+            FramedImage(
+                plate,
+                max_w=PAGE_W - MARGIN_L - MARGIN_R,
+                max_h=2.25 * inch,
+            )
+        )
+        story.append(Spacer(1, 14))
     ground = CRIMSON if chapter_index % 2 == 1 else BLUE
     first_para = blocks[0]
     words = first_para.split()

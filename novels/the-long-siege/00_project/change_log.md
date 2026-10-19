@@ -16,3 +16,9 @@
 - Builder (build/build_pdf.py) and synthetic-oblique font generator (build/make_oblique_fonts.py) made reproducible; oblique fonts renamed internally so all four serif faces embed.
 - Removed one duplicated adjacent scene break in chapter 21; builder now defensively collapses any consecutive break blocks.
 - Verified: 446 physical pages, 439 body folios, all 25 titles and chapter endings intact, 140 scene markers mapped to fleurons, no blank pages, no margin overflows, oblique faces drawn.
+
+## 2026-10-19 — illustration program begun
+- 25-plate program defined (build/illustrations/manifest.yaml): one painterly romantic-academic oil plate per chapter, shared style anchor and verbatim character descriptors for consistency, strict 1480s historical accuracy, no text in art.
+- Plates ch01-ch10 generated (1376x768 landscape); builder integrates existing plates into chapter openers under gilt double-rule frames and gracefully skips missing ones.
+- PDF rebuilt: 448 pages, openers with plates verified visually; no-plate fallback verified.
+- Pending: ch07 regen for canon gown color (steel-grey gown + red velvet mantle), then ch11-ch25 generation across subsequent turns (10-image per-turn limit).
