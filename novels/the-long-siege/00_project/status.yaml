@@ -10,15 +10,16 @@ current_volume: 1
 current_chapter: 25
 last_completed_chapter: 25
 total_words_estimate: 104209
-phase: "drafted"
+phase: "illustrated"
 deliverables:
   pdf:
     path: "The_Long_Siege.pdf"
     builder: "build/build_pdf.py"
     oblique_font_builder: "build/make_oblique_fonts.py"
     frontispiece: "build/assets/frontispiece.jpg"
-    physical_pages: 446
-    body_folios: 439
+    illustrations_manifest: "build/illustrations/manifest.yaml"
+    physical_pages: 453
+    body_folios: 446
     design: "illuminated_manuscript"
     notes: >-
       5.5x8.5in trade format on a parchment ground with gold rule frames;
@@ -26,10 +27,13 @@ deliverables:
       vine-and-flower corner borders on the title and three part-divider
       pages; floral fleuron scene breaks; floral rules; gilt char-spaced
       display type; period frontispiece miniature in a double rule frame;
-      running heads suppressed on chapter openers; body-relative folios
-      flanked by diamonds; DejaVu Serif family embedded including synthetic
-      oblique and bold-oblique faces; auto TOC with Roman chapter numerals;
-      Mature/18+ notice in front matter; FINIS closing ornament.
+      one full romantic-academic oil plate per chapter (25 total, 1376x768,
+      gilt-framed on the chapter opener) with consistent recurring character
+      descriptions and 1480s heraldry; running heads suppressed on chapter
+      openers; body-relative folios flanked by diamonds; DejaVu Serif family
+      embedded including synthetic oblique and bold-oblique faces; auto TOC
+      with Roman chapter numerals; Mature/18+ notice in front matter;
+      FINIS closing ornament.
 milestones:
   marriage_chapter: 7
   rupture_truth_chapter: 18

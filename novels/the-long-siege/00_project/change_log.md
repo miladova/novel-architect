@@ -22,3 +22,10 @@
 - Plates ch01-ch10 generated (1376x768 landscape); builder integrates existing plates into chapter openers under gilt double-rule frames and gracefully skips missing ones.
 - PDF rebuilt: 448 pages, openers with plates verified visually; no-plate fallback verified.
 - Pending: ch07 regen for canon gown color (steel-grey gown + red velvet mantle), then ch11-ch25 generation across subsequent turns (10-image per-turn limit).
+
+## 2026-10-19 — illustration program complete
+- All 25 chapter plates generated (build/illustrations/ch01-ch25.jpg), uniform 1376x768 landscape, romantic academic 19th-century salon oil style matching the reference set, no in-art text.
+- Consistency controls: verbatim recurring descriptors for Jeanne (dark braided hair, linen veil, grey eyes) and Thiébaut (lean, sandy hair, trimmed beard); Vauréal red-and-silver and Lorraine blue-and-white heraldry; strict 1480s arms, costume, and architecture.
+- Canon correction: ch07 regenerated to the steel-grey silver-embroidered gown with red velvet miniver-lined mantle; ch11 softened to a reverent burial procession after an initial moderation block.
+- Every chapter opener now carries its gilt-framed plate between the floral title rule and the illuminated initial; builder skips missing plates gracefully.
+- Final PDF: 453 physical pages, 446 body folios, 26 embedded images (frontispiece + 25 plates); full verification passed (all titles/endings, no blank pages, no margin overflow, folios restart at 1, three serif faces embedded).

@@ -55,15 +55,15 @@ plates:
      subject: "an elderly pale chancellor in clerical dress sits before an open green ribbon-tied document case with old sealed parchments; the duchess reads one by candlelight, grave, a small oratory behind"}
   - {chapter: 19, file: "ch19.jpg", status: "generated",
      subject: "a walled cloth city under bombardment; smoke over Gothic rooftops, a great bombard firing from siege works, defenders on the walls, the duchess on a rampart in a steel cap"}
-  - {chapter: 20, file: "ch20.jpg", status: "missing",
+  - {chapter: 20, file: "ch20.jpg", status: "generated",
      subject: "a column of armed townswomen with crossbows and pikes advances through a smoke-filled street toward a stone church, their pregnant duchess at their head holding a pike"}
-  - {chapter: 21, file: "ch21.jpg", status: "missing",
+  - {chapter: 21, file: "ch21.jpg", status: "generated",
      subject: "a pitched relief battle; a pike square of German mercenaries receives charging French gendarmes while sledge guns fire and a rocket signal rises over a river and a besieged city"}
-  - {chapter: 22, file: "ch22.jpg", status: "missing",
+  - {chapter: 22, file: "ch22.jpg", status: "generated",
      subject: "a memorial ceremony in a cloth-hall square; mourning citizens file past a new stone wall carved with names, the duchess lays a sealed bronze charter into its center"}
-  - {chapter: 23, file: "ch23.jpg", status: "missing",
+  - {chapter: 23, file: "ch23.jpg", status: "generated",
      subject: "a winter siege battery in the snow before a fortress on a rock; the heavily pregnant duchess aims a bombard using gunner's tables while gunners sponge and load, breath in cold air"}
-  - {chapter: 24, file: "ch24.jpg", status: "missing",
+  - {chapter: 24, file: "ch24.jpg", status: "generated",
      subject: "a peace conference inside a richly hung pavilion; French and ducal envoys in fur-lined robes sit across a table with a sealed treaty, an observer in Venetian black looking on"}
-  - {chapter: 25, file: "ch25.jpg", status: "missing",
+  - {chapter: 25, file: "ch25.jpg", status: "generated",
      subject: "a sunlit peacetime palace garden in spring; the duchess holds a swaddled infant while the soldier-duke stands close behind her, blooming roses and a calm river city beyond an open arcade"}
